@@ -1,0 +1,18 @@
+{
+  "name": "texting",
+  "version": "1.0.0",
+  "description": "texting and driving dictionary",
+  "main": "index.es6",
+  "dependencies": {
+    "word-list": "^2.0.0",
+    "requirejs": ">=1.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
